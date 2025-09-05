@@ -4,3 +4,4 @@
 .Ruserdata
 braincptac3_repo.Rproj
 *data_files*
+.DS_Store
